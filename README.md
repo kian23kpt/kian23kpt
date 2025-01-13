@@ -14,4 +14,8 @@ I'm an Angular Developer with 6 years of experience building scalable, performan
 
 ### 📂 Projects I've Worked On
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kian23kpt&repo=material.angular.io)](https://github.com/kian23kpt/material.angular.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kian23kpt&repo=material.angular.io&theme=dark)](https://github.com/kian23kpt/material.angular.io)
+
+### ⏱ WakaTime card  [![wakatime](https://wakatime.com/badge/user/a0ae4f5d-ef4c-4c23-8f31-3221aaf7952e.svg?style=plastic)](https://wakatime.com/@a0ae4f5d-ef4c-4c23-8f31-3221aaf7952e)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kian23kpt&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)

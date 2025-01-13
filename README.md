@@ -6,16 +6,16 @@ I'm an Angular Developer with 6 years of experience building scalable, performan
 
 ### 🏆 GitHub Contributions
 
-![kian's GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=kian23kpt&show_icons=true&count_private=true&hide_title=true&hide=stars&theme=dark&show=prs_merged,prs_merged_percentage&rank_icon=github)
+![kian's GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=kian23kpt&show_icons=true&count_private=true&hide_title=true&hide=stars&theme=dark&show=prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true)
 
 ### 📊 Most Used Languages
 
-![kian's GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kian23kpt&theme=dark&layout=donut&langs_count=10&custom_title=Languages)
+![kian's GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kian23kpt&theme=dark&layout=donut&langs_count=10&custom_title=Languages&hide_border=true)
 
 ### 📂 Projects I've Worked On
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kian23kpt&repo=material.angular.io&theme=dark)](https://github.com/kian23kpt/material.angular.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kian23kpt&repo=material.angular.io&theme=dark&hide_border=true)](https://github.com/kian23kpt/material.angular.io)
 
 ### ⏱ WakaTime card  [![wakatime](https://wakatime.com/badge/user/a0ae4f5d-ef4c-4c23-8f31-3221aaf7952e.svg?style=plastic)](https://wakatime.com/@a0ae4f5d-ef4c-4c23-8f31-3221aaf7952e)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kian23kpt&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kian23kpt&theme=dark&layout=compact&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

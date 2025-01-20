@@ -19,4 +19,4 @@ I'm an Angular Developer with 6 years of experience building scalable, performan
 ### ⏱ WakaTime
 [![wakatime](https://wakatime.com/badge/user/a0ae4f5d-ef4c-4c23-8f31-3221aaf7952e.svg?style=default)](https://wakatime.com/@a0ae4f5d-ef4c-4c23-8f31-3221aaf7952e)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kian23kpt&theme=dark&layout=compact&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![kian's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kian23kpt&theme=dark&layout=compact&langs_count=10&hide_border=true)](https://wakatime.com/@a0ae4f5d-ef4c-4c23-8f31-3221aaf7952e)
